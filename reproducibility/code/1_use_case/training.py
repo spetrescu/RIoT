@@ -16,7 +16,7 @@ import argparse
 from pathlib import Path
 import random
 
-DATA_DIR = "../../data/figure3"
+DATA_DIR = "../../data/use_case_1"
 RESAMPLE_RULE = "15min"
 EUROPE_BUCHAREST = "Europe/Bucharest"
 RANDOM_STATE = 7
