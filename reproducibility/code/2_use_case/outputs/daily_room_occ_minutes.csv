@@ -1,0 +1,961 @@
+day,room,occupied_minutes_workhours,occupied_hours_workhours
+2025-01-01,Site F Project Teams,0,0.0
+2025-01-01,Site F Living Room,0,0.0
+2025-01-01,Site F Contract Support,0,0.0
+2025-01-01,Site F Sales,0,0.0
+2025-01-01,Site F Maintenance Technical,0,0.0
+2025-01-01,Site F Conference Room,0,0.0
+2025-01-01,Site F Maintenance Management,0,0.0
+2025-01-01,Site F Technical Office,0,0.0
+2025-01-02,Site F Project Teams,81,1.35
+2025-01-02,Site F Living Room,480,8.0
+2025-01-02,Site F Contract Support,0,0.0
+2025-01-02,Site F Sales,204,3.4
+2025-01-02,Site F Maintenance Technical,480,8.0
+2025-01-02,Site F Conference Room,0,0.0
+2025-01-02,Site F Maintenance Management,0,0.0
+2025-01-02,Site F Technical Office,0,0.0
+2025-01-03,Site F Project Teams,480,8.0
+2025-01-03,Site F Living Room,480,8.0
+2025-01-03,Site F Contract Support,0,0.0
+2025-01-03,Site F Sales,0,0.0
+2025-01-03,Site F Maintenance Technical,480,8.0
+2025-01-03,Site F Conference Room,0,0.0
+2025-01-03,Site F Maintenance Management,457,7.616666666666666
+2025-01-03,Site F Technical Office,0,0.0
+2025-01-04,Site F Project Teams,0,0.0
+2025-01-04,Site F Living Room,0,0.0
+2025-01-04,Site F Contract Support,0,0.0
+2025-01-04,Site F Sales,0,0.0
+2025-01-04,Site F Maintenance Technical,0,0.0
+2025-01-04,Site F Conference Room,0,0.0
+2025-01-04,Site F Maintenance Management,0,0.0
+2025-01-04,Site F Technical Office,0,0.0
+2025-01-05,Site F Project Teams,0,0.0
+2025-01-05,Site F Living Room,0,0.0
+2025-01-05,Site F Contract Support,0,0.0
+2025-01-05,Site F Sales,0,0.0
+2025-01-05,Site F Maintenance Technical,0,0.0
+2025-01-05,Site F Conference Room,0,0.0
+2025-01-05,Site F Maintenance Management,0,0.0
+2025-01-05,Site F Technical Office,0,0.0
+2025-01-06,Site F Project Teams,96,1.6
+2025-01-06,Site F Living Room,480,8.0
+2025-01-06,Site F Contract Support,480,8.0
+2025-01-06,Site F Sales,192,3.2
+2025-01-06,Site F Maintenance Technical,480,8.0
+2025-01-06,Site F Conference Room,231,3.85
+2025-01-06,Site F Maintenance Management,478,7.966666666666667
+2025-01-06,Site F Technical Office,359,5.983333333333333
+2025-01-07,Site F Project Teams,306,5.1
+2025-01-07,Site F Living Room,480,8.0
+2025-01-07,Site F Contract Support,0,0.0
+2025-01-07,Site F Sales,324,5.4
+2025-01-07,Site F Maintenance Technical,0,0.0
+2025-01-07,Site F Conference Room,291,4.85
+2025-01-07,Site F Maintenance Management,280,4.666666666666667
+2025-01-07,Site F Technical Office,480,8.0
+2025-01-08,Site F Project Teams,321,5.35
+2025-01-08,Site F Living Room,480,8.0
+2025-01-08,Site F Contract Support,0,0.0
+2025-01-08,Site F Sales,384,6.4
+2025-01-08,Site F Maintenance Technical,0,0.0
+2025-01-08,Site F Conference Room,216,3.6
+2025-01-08,Site F Maintenance Management,0,0.0
+2025-01-08,Site F Technical Office,381,6.35
+2025-01-09,Site F Project Teams,367,6.116666666666666
+2025-01-09,Site F Living Room,370,6.166666666666667
+2025-01-09,Site F Contract Support,0,0.0
+2025-01-09,Site F Sales,416,6.933333333333334
+2025-01-09,Site F Maintenance Technical,0,0.0
+2025-01-09,Site F Conference Room,366,6.1
+2025-01-09,Site F Maintenance Management,0,0.0
+2025-01-09,Site F Technical Office,441,7.35
+2025-01-10,Site F Project Teams,111,1.85
+2025-01-10,Site F Living Room,480,8.0
+2025-01-10,Site F Contract Support,0,0.0
+2025-01-10,Site F Sales,159,2.65
+2025-01-10,Site F Maintenance Technical,0,0.0
+2025-01-10,Site F Conference Room,480,8.0
+2025-01-10,Site F Maintenance Management,480,8.0
+2025-01-10,Site F Technical Office,389,6.483333333333333
+2025-01-11,Site F Project Teams,0,0.0
+2025-01-11,Site F Living Room,0,0.0
+2025-01-11,Site F Contract Support,0,0.0
+2025-01-11,Site F Sales,0,0.0
+2025-01-11,Site F Maintenance Technical,0,0.0
+2025-01-11,Site F Conference Room,0,0.0
+2025-01-11,Site F Maintenance Management,0,0.0
+2025-01-11,Site F Technical Office,0,0.0
+2025-01-12,Site F Project Teams,0,0.0
+2025-01-12,Site F Living Room,0,0.0
+2025-01-12,Site F Contract Support,0,0.0
+2025-01-12,Site F Sales,0,0.0
+2025-01-12,Site F Maintenance Technical,0,0.0
+2025-01-12,Site F Conference Room,0,0.0
+2025-01-12,Site F Maintenance Management,0,0.0
+2025-01-12,Site F Technical Office,0,0.0
+2025-01-13,Site F Project Teams,81,1.35
+2025-01-13,Site F Living Room,480,8.0
+2025-01-13,Site F Contract Support,0,0.0
+2025-01-13,Site F Sales,134,2.2333333333333334
+2025-01-13,Site F Maintenance Technical,0,0.0
+2025-01-13,Site F Conference Room,480,8.0
+2025-01-13,Site F Maintenance Management,0,0.0
+2025-01-13,Site F Technical Office,351,5.85
+2025-01-14,Site F Project Teams,479,7.983333333333333
+2025-01-14,Site F Living Room,480,8.0
+2025-01-14,Site F Contract Support,355,5.916666666666667
+2025-01-14,Site F Sales,464,7.733333333333333
+2025-01-14,Site F Maintenance Technical,0,0.0
+2025-01-14,Site F Conference Room,291,4.85
+2025-01-14,Site F Maintenance Management,0,0.0
+2025-01-14,Site F Technical Office,0,0.0
+2025-01-15,Site F Project Teams,126,2.1
+2025-01-15,Site F Living Room,415,6.916666666666667
+2025-01-15,Site F Contract Support,415,6.916666666666667
+2025-01-15,Site F Sales,162,2.7
+2025-01-15,Site F Maintenance Technical,480,8.0
+2025-01-15,Site F Conference Room,480,8.0
+2025-01-15,Site F Maintenance Management,322,5.366666666666666
+2025-01-15,Site F Technical Office,209,3.4833333333333334
+2025-01-16,Site F Project Teams,480,8.0
+2025-01-16,Site F Living Room,480,8.0
+2025-01-16,Site F Contract Support,0,0.0
+2025-01-16,Site F Sales,0,0.0
+2025-01-16,Site F Maintenance Technical,0,0.0
+2025-01-16,Site F Conference Room,480,8.0
+2025-01-16,Site F Maintenance Management,0,0.0
+2025-01-16,Site F Technical Office,0,0.0
+2025-01-17,Site F Project Teams,449,7.483333333333333
+2025-01-17,Site F Living Room,355,5.916666666666667
+2025-01-17,Site F Contract Support,0,0.0
+2025-01-17,Site F Sales,144,2.4
+2025-01-17,Site F Maintenance Technical,0,0.0
+2025-01-17,Site F Conference Room,480,8.0
+2025-01-17,Site F Maintenance Management,0,0.0
+2025-01-17,Site F Technical Office,224,3.7333333333333334
+2025-01-18,Site F Project Teams,0,0.0
+2025-01-18,Site F Living Room,0,0.0
+2025-01-18,Site F Contract Support,0,0.0
+2025-01-18,Site F Sales,0,0.0
+2025-01-18,Site F Maintenance Technical,0,0.0
+2025-01-18,Site F Conference Room,0,0.0
+2025-01-18,Site F Maintenance Management,0,0.0
+2025-01-18,Site F Technical Office,0,0.0
+2025-01-19,Site F Project Teams,0,0.0
+2025-01-19,Site F Living Room,0,0.0
+2025-01-19,Site F Contract Support,0,0.0
+2025-01-19,Site F Sales,0,0.0
+2025-01-19,Site F Maintenance Technical,0,0.0
+2025-01-19,Site F Conference Room,0,0.0
+2025-01-19,Site F Maintenance Management,0,0.0
+2025-01-19,Site F Technical Office,0,0.0
+2025-01-20,Site F Project Teams,479,7.983333333333333
+2025-01-20,Site F Living Room,480,8.0
+2025-01-20,Site F Contract Support,0,0.0
+2025-01-20,Site F Sales,189,3.15
+2025-01-20,Site F Maintenance Technical,480,8.0
+2025-01-20,Site F Conference Room,261,4.35
+2025-01-20,Site F Maintenance Management,0,0.0
+2025-01-20,Site F Technical Office,322,5.366666666666666
+2025-01-21,Site F Project Teams,134,2.2333333333333334
+2025-01-21,Site F Living Room,460,7.666666666666667
+2025-01-21,Site F Contract Support,0,0.0
+2025-01-21,Site F Sales,174,2.9
+2025-01-21,Site F Maintenance Technical,456,7.6
+2025-01-21,Site F Conference Room,480,8.0
+2025-01-21,Site F Maintenance Management,172,2.8666666666666667
+2025-01-21,Site F Technical Office,0,0.0
+2025-01-22,Site F Project Teams,0,0.0
+2025-01-22,Site F Living Room,475,7.916666666666667
+2025-01-22,Site F Contract Support,0,0.0
+2025-01-22,Site F Sales,0,0.0
+2025-01-22,Site F Maintenance Technical,0,0.0
+2025-01-22,Site F Conference Room,441,7.35
+2025-01-22,Site F Maintenance Management,0,0.0
+2025-01-22,Site F Technical Office,0,0.0
+2025-01-23,Site F Project Teams,426,7.1
+2025-01-23,Site F Living Room,480,8.0
+2025-01-23,Site F Contract Support,0,0.0
+2025-01-23,Site F Sales,480,8.0
+2025-01-23,Site F Maintenance Technical,0,0.0
+2025-01-23,Site F Conference Room,426,7.1
+2025-01-23,Site F Maintenance Management,0,0.0
+2025-01-23,Site F Technical Office,480,8.0
+2025-01-24,Site F Project Teams,0,0.0
+2025-01-24,Site F Living Room,415,6.916666666666667
+2025-01-24,Site F Contract Support,0,0.0
+2025-01-24,Site F Sales,0,0.0
+2025-01-24,Site F Maintenance Technical,0,0.0
+2025-01-24,Site F Conference Room,441,7.35
+2025-01-24,Site F Maintenance Management,0,0.0
+2025-01-24,Site F Technical Office,0,0.0
+2025-01-25,Site F Project Teams,0,0.0
+2025-01-25,Site F Living Room,0,0.0
+2025-01-25,Site F Contract Support,0,0.0
+2025-01-25,Site F Sales,0,0.0
+2025-01-25,Site F Maintenance Technical,0,0.0
+2025-01-25,Site F Conference Room,0,0.0
+2025-01-25,Site F Maintenance Management,0,0.0
+2025-01-25,Site F Technical Office,0,0.0
+2025-01-26,Site F Project Teams,0,0.0
+2025-01-26,Site F Living Room,0,0.0
+2025-01-26,Site F Contract Support,0,0.0
+2025-01-26,Site F Sales,0,0.0
+2025-01-26,Site F Maintenance Technical,0,0.0
+2025-01-26,Site F Conference Room,0,0.0
+2025-01-26,Site F Maintenance Management,0,0.0
+2025-01-26,Site F Technical Office,0,0.0
+2025-01-27,Site F Project Teams,479,7.983333333333333
+2025-01-27,Site F Living Room,370,6.166666666666667
+2025-01-27,Site F Contract Support,0,0.0
+2025-01-27,Site F Sales,0,0.0
+2025-01-27,Site F Maintenance Technical,0,0.0
+2025-01-27,Site F Conference Room,246,4.1
+2025-01-27,Site F Maintenance Management,0,0.0
+2025-01-27,Site F Technical Office,0,0.0
+2025-01-28,Site F Project Teams,480,8.0
+2025-01-28,Site F Living Room,480,8.0
+2025-01-28,Site F Contract Support,0,0.0
+2025-01-28,Site F Sales,0,0.0
+2025-01-28,Site F Maintenance Technical,0,0.0
+2025-01-28,Site F Conference Room,480,8.0
+2025-01-28,Site F Maintenance Management,0,0.0
+2025-01-28,Site F Technical Office,0,0.0
+2025-01-29,Site F Project Teams,434,7.233333333333333
+2025-01-29,Site F Living Room,445,7.416666666666667
+2025-01-29,Site F Contract Support,416,6.933333333333334
+2025-01-29,Site F Sales,459,7.65
+2025-01-29,Site F Maintenance Technical,441,7.35
+2025-01-29,Site F Conference Room,276,4.6
+2025-01-29,Site F Maintenance Management,0,0.0
+2025-01-29,Site F Technical Office,0,0.0
+2025-01-30,Site F Project Teams,0,0.0
+2025-01-30,Site F Living Room,370,6.166666666666667
+2025-01-30,Site F Contract Support,0,0.0
+2025-01-30,Site F Sales,0,0.0
+2025-01-30,Site F Maintenance Technical,404,6.733333333333333
+2025-01-30,Site F Conference Room,480,8.0
+2025-01-30,Site F Maintenance Management,372,6.2
+2025-01-30,Site F Technical Office,0,0.0
+2025-01-31,Site F Project Teams,396,6.6
+2025-01-31,Site F Living Room,385,6.416666666666667
+2025-01-31,Site F Contract Support,0,0.0
+2025-01-31,Site F Sales,0,0.0
+2025-01-31,Site F Maintenance Technical,0,0.0
+2025-01-31,Site F Conference Room,480,8.0
+2025-01-31,Site F Maintenance Management,0,0.0
+2025-01-31,Site F Technical Office,411,6.85
+2025-02-01,Site F Project Teams,0,0.0
+2025-02-01,Site F Living Room,0,0.0
+2025-02-01,Site F Contract Support,0,0.0
+2025-02-01,Site F Sales,0,0.0
+2025-02-01,Site F Maintenance Technical,0,0.0
+2025-02-01,Site F Conference Room,0,0.0
+2025-02-01,Site F Maintenance Management,0,0.0
+2025-02-01,Site F Technical Office,0,0.0
+2025-02-02,Site F Project Teams,0,0.0
+2025-02-02,Site F Living Room,0,0.0
+2025-02-02,Site F Contract Support,0,0.0
+2025-02-02,Site F Sales,0,0.0
+2025-02-02,Site F Maintenance Technical,0,0.0
+2025-02-02,Site F Conference Room,0,0.0
+2025-02-02,Site F Maintenance Management,0,0.0
+2025-02-02,Site F Technical Office,0,0.0
+2025-02-03,Site F Project Teams,51,0.85
+2025-02-03,Site F Living Room,475,7.916666666666667
+2025-02-03,Site F Contract Support,480,8.0
+2025-02-03,Site F Sales,418,6.966666666666667
+2025-02-03,Site F Maintenance Technical,0,0.0
+2025-02-03,Site F Conference Room,480,8.0
+2025-02-03,Site F Maintenance Management,277,4.616666666666666
+2025-02-03,Site F Technical Office,449,7.483333333333333
+2025-02-04,Site F Project Teams,480,8.0
+2025-02-04,Site F Living Room,480,8.0
+2025-02-04,Site F Contract Support,0,0.0
+2025-02-04,Site F Sales,218,3.6333333333333333
+2025-02-04,Site F Maintenance Technical,0,0.0
+2025-02-04,Site F Conference Room,201,3.35
+2025-02-04,Site F Maintenance Management,480,8.0
+2025-02-04,Site F Technical Office,171,2.85
+2025-02-05,Site F Project Teams,81,1.35
+2025-02-05,Site F Living Room,370,6.166666666666667
+2025-02-05,Site F Contract Support,0,0.0
+2025-02-05,Site F Sales,248,4.133333333333334
+2025-02-05,Site F Maintenance Technical,0,0.0
+2025-02-05,Site F Conference Room,0,0.0
+2025-02-05,Site F Maintenance Management,0,0.0
+2025-02-05,Site F Technical Office,104,1.7333333333333334
+2025-02-06,Site F Project Teams,426,7.1
+2025-02-06,Site F Living Room,355,5.916666666666667
+2025-02-06,Site F Contract Support,0,0.0
+2025-02-06,Site F Sales,480,8.0
+2025-02-06,Site F Maintenance Technical,419,6.983333333333333
+2025-02-06,Site F Conference Room,411,6.85
+2025-02-06,Site F Maintenance Management,238,3.966666666666667
+2025-02-06,Site F Technical Office,284,4.733333333333333
+2025-02-07,Site F Project Teams,261,4.35
+2025-02-07,Site F Living Room,340,5.666666666666667
+2025-02-07,Site F Contract Support,0,0.0
+2025-02-07,Site F Sales,340,5.666666666666667
+2025-02-07,Site F Maintenance Technical,0,0.0
+2025-02-07,Site F Conference Room,246,4.1
+2025-02-07,Site F Maintenance Management,0,0.0
+2025-02-07,Site F Technical Office,471,7.85
+2025-02-08,Site F Project Teams,0,0.0
+2025-02-08,Site F Living Room,0,0.0
+2025-02-08,Site F Contract Support,0,0.0
+2025-02-08,Site F Sales,0,0.0
+2025-02-08,Site F Maintenance Technical,0,0.0
+2025-02-08,Site F Conference Room,0,0.0
+2025-02-08,Site F Maintenance Management,0,0.0
+2025-02-08,Site F Technical Office,0,0.0
+2025-02-09,Site F Project Teams,0,0.0
+2025-02-09,Site F Living Room,0,0.0
+2025-02-09,Site F Contract Support,0,0.0
+2025-02-09,Site F Sales,0,0.0
+2025-02-09,Site F Maintenance Technical,0,0.0
+2025-02-09,Site F Conference Room,0,0.0
+2025-02-09,Site F Maintenance Management,0,0.0
+2025-02-09,Site F Technical Office,0,0.0
+2025-02-10,Site F Project Teams,0,0.0
+2025-02-10,Site F Living Room,0,0.0
+2025-02-10,Site F Contract Support,0,0.0
+2025-02-10,Site F Sales,0,0.0
+2025-02-10,Site F Maintenance Technical,0,0.0
+2025-02-10,Site F Conference Room,0,0.0
+2025-02-10,Site F Maintenance Management,0,0.0
+2025-02-10,Site F Technical Office,0,0.0
+2025-02-11,Site F Project Teams,0,0.0
+2025-02-11,Site F Living Room,0,0.0
+2025-02-11,Site F Contract Support,0,0.0
+2025-02-11,Site F Sales,0,0.0
+2025-02-11,Site F Maintenance Technical,0,0.0
+2025-02-11,Site F Conference Room,0,0.0
+2025-02-11,Site F Maintenance Management,0,0.0
+2025-02-11,Site F Technical Office,0,0.0
+2025-02-12,Site F Project Teams,0,0.0
+2025-02-12,Site F Living Room,0,0.0
+2025-02-12,Site F Contract Support,0,0.0
+2025-02-12,Site F Sales,0,0.0
+2025-02-12,Site F Maintenance Technical,0,0.0
+2025-02-12,Site F Conference Room,0,0.0
+2025-02-12,Site F Maintenance Management,0,0.0
+2025-02-12,Site F Technical Office,0,0.0
+2025-02-13,Site F Project Teams,0,0.0
+2025-02-13,Site F Living Room,0,0.0
+2025-02-13,Site F Contract Support,0,0.0
+2025-02-13,Site F Sales,0,0.0
+2025-02-13,Site F Maintenance Technical,0,0.0
+2025-02-13,Site F Conference Room,0,0.0
+2025-02-13,Site F Maintenance Management,0,0.0
+2025-02-13,Site F Technical Office,0,0.0
+2025-02-14,Site F Project Teams,0,0.0
+2025-02-14,Site F Living Room,0,0.0
+2025-02-14,Site F Contract Support,0,0.0
+2025-02-14,Site F Sales,0,0.0
+2025-02-14,Site F Maintenance Technical,0,0.0
+2025-02-14,Site F Conference Room,0,0.0
+2025-02-14,Site F Maintenance Management,0,0.0
+2025-02-14,Site F Technical Office,0,0.0
+2025-02-15,Site F Project Teams,0,0.0
+2025-02-15,Site F Living Room,0,0.0
+2025-02-15,Site F Contract Support,0,0.0
+2025-02-15,Site F Sales,0,0.0
+2025-02-15,Site F Maintenance Technical,0,0.0
+2025-02-15,Site F Conference Room,0,0.0
+2025-02-15,Site F Maintenance Management,0,0.0
+2025-02-15,Site F Technical Office,0,0.0
+2025-02-16,Site F Project Teams,0,0.0
+2025-02-16,Site F Living Room,0,0.0
+2025-02-16,Site F Contract Support,0,0.0
+2025-02-16,Site F Sales,0,0.0
+2025-02-16,Site F Maintenance Technical,0,0.0
+2025-02-16,Site F Conference Room,0,0.0
+2025-02-16,Site F Maintenance Management,0,0.0
+2025-02-16,Site F Technical Office,0,0.0
+2025-02-17,Site F Project Teams,0,0.0
+2025-02-17,Site F Living Room,0,0.0
+2025-02-17,Site F Contract Support,0,0.0
+2025-02-17,Site F Sales,0,0.0
+2025-02-17,Site F Maintenance Technical,0,0.0
+2025-02-17,Site F Conference Room,0,0.0
+2025-02-17,Site F Maintenance Management,0,0.0
+2025-02-17,Site F Technical Office,0,0.0
+2025-02-18,Site F Project Teams,0,0.0
+2025-02-18,Site F Living Room,0,0.0
+2025-02-18,Site F Contract Support,0,0.0
+2025-02-18,Site F Sales,0,0.0
+2025-02-18,Site F Maintenance Technical,0,0.0
+2025-02-18,Site F Conference Room,0,0.0
+2025-02-18,Site F Maintenance Management,0,0.0
+2025-02-18,Site F Technical Office,0,0.0
+2025-02-19,Site F Project Teams,0,0.0
+2025-02-19,Site F Living Room,0,0.0
+2025-02-19,Site F Contract Support,0,0.0
+2025-02-19,Site F Sales,0,0.0
+2025-02-19,Site F Maintenance Technical,0,0.0
+2025-02-19,Site F Conference Room,0,0.0
+2025-02-19,Site F Maintenance Management,0,0.0
+2025-02-19,Site F Technical Office,0,0.0
+2025-02-20,Site F Project Teams,0,0.0
+2025-02-20,Site F Living Room,0,0.0
+2025-02-20,Site F Contract Support,0,0.0
+2025-02-20,Site F Sales,0,0.0
+2025-02-20,Site F Maintenance Technical,0,0.0
+2025-02-20,Site F Conference Room,0,0.0
+2025-02-20,Site F Maintenance Management,0,0.0
+2025-02-20,Site F Technical Office,0,0.0
+2025-02-21,Site F Project Teams,0,0.0
+2025-02-21,Site F Living Room,0,0.0
+2025-02-21,Site F Contract Support,0,0.0
+2025-02-21,Site F Sales,0,0.0
+2025-02-21,Site F Maintenance Technical,0,0.0
+2025-02-21,Site F Conference Room,0,0.0
+2025-02-21,Site F Maintenance Management,0,0.0
+2025-02-21,Site F Technical Office,0,0.0
+2025-02-22,Site F Project Teams,0,0.0
+2025-02-22,Site F Living Room,0,0.0
+2025-02-22,Site F Contract Support,0,0.0
+2025-02-22,Site F Sales,0,0.0
+2025-02-22,Site F Maintenance Technical,0,0.0
+2025-02-22,Site F Conference Room,0,0.0
+2025-02-22,Site F Maintenance Management,0,0.0
+2025-02-22,Site F Technical Office,0,0.0
+2025-02-23,Site F Project Teams,0,0.0
+2025-02-23,Site F Living Room,0,0.0
+2025-02-23,Site F Contract Support,0,0.0
+2025-02-23,Site F Sales,0,0.0
+2025-02-23,Site F Maintenance Technical,0,0.0
+2025-02-23,Site F Conference Room,0,0.0
+2025-02-23,Site F Maintenance Management,0,0.0
+2025-02-23,Site F Technical Office,0,0.0
+2025-02-24,Site F Project Teams,5280,88.0
+2025-02-24,Site F Living Room,0,0.0
+2025-02-24,Site F Contract Support,0,0.0
+2025-02-24,Site F Sales,5280,88.0
+2025-02-24,Site F Maintenance Technical,0,0.0
+2025-02-24,Site F Conference Room,0,0.0
+2025-02-24,Site F Maintenance Management,0,0.0
+2025-02-24,Site F Technical Office,5280,88.0
+2025-02-25,Site F Project Teams,0,0.0
+2025-02-25,Site F Living Room,0,0.0
+2025-02-25,Site F Contract Support,0,0.0
+2025-02-25,Site F Sales,480,8.0
+2025-02-25,Site F Maintenance Technical,480,8.0
+2025-02-25,Site F Conference Room,0,0.0
+2025-02-25,Site F Maintenance Management,0,0.0
+2025-02-25,Site F Technical Office,480,8.0
+2025-02-26,Site F Project Teams,480,8.0
+2025-02-26,Site F Living Room,0,0.0
+2025-02-26,Site F Contract Support,0,0.0
+2025-02-26,Site F Sales,480,8.0
+2025-02-26,Site F Maintenance Technical,480,8.0
+2025-02-26,Site F Conference Room,0,0.0
+2025-02-26,Site F Maintenance Management,0,0.0
+2025-02-26,Site F Technical Office,480,8.0
+2025-02-27,Site F Project Teams,252,4.2
+2025-02-27,Site F Living Room,427,7.116666666666666
+2025-02-27,Site F Contract Support,0,0.0
+2025-02-27,Site F Sales,471,7.85
+2025-02-27,Site F Maintenance Technical,445,7.416666666666667
+2025-02-27,Site F Conference Room,0,0.0
+2025-02-27,Site F Maintenance Management,306,5.1
+2025-02-27,Site F Technical Office,396,6.6
+2025-02-28,Site F Project Teams,480,8.0
+2025-02-28,Site F Living Room,0,0.0
+2025-02-28,Site F Contract Support,0,0.0
+2025-02-28,Site F Sales,480,8.0
+2025-02-28,Site F Maintenance Technical,480,8.0
+2025-02-28,Site F Conference Room,0,0.0
+2025-02-28,Site F Maintenance Management,0,0.0
+2025-02-28,Site F Technical Office,480,8.0
+2025-03-01,Site F Project Teams,0,0.0
+2025-03-01,Site F Living Room,0,0.0
+2025-03-01,Site F Contract Support,0,0.0
+2025-03-01,Site F Sales,0,0.0
+2025-03-01,Site F Maintenance Technical,0,0.0
+2025-03-01,Site F Conference Room,0,0.0
+2025-03-01,Site F Maintenance Management,0,0.0
+2025-03-01,Site F Technical Office,0,0.0
+2025-03-02,Site F Project Teams,0,0.0
+2025-03-02,Site F Living Room,0,0.0
+2025-03-02,Site F Contract Support,0,0.0
+2025-03-02,Site F Sales,0,0.0
+2025-03-02,Site F Maintenance Technical,0,0.0
+2025-03-02,Site F Conference Room,0,0.0
+2025-03-02,Site F Maintenance Management,0,0.0
+2025-03-02,Site F Technical Office,0,0.0
+2025-03-03,Site F Project Teams,70,1.1666666666666667
+2025-03-03,Site F Living Room,0,0.0
+2025-03-03,Site F Contract Support,0,0.0
+2025-03-03,Site F Sales,480,8.0
+2025-03-03,Site F Maintenance Technical,445,7.416666666666667
+2025-03-03,Site F Conference Room,0,0.0
+2025-03-03,Site F Maintenance Management,441,7.35
+2025-03-03,Site F Technical Office,441,7.35
+2025-03-04,Site F Project Teams,84,1.4
+2025-03-04,Site F Living Room,0,0.0
+2025-03-04,Site F Contract Support,400,6.666666666666667
+2025-03-04,Site F Sales,480,8.0
+2025-03-04,Site F Maintenance Technical,475,7.916666666666667
+2025-03-04,Site F Conference Room,254,4.233333333333333
+2025-03-04,Site F Maintenance Management,0,0.0
+2025-03-04,Site F Technical Office,480,8.0
+2025-03-05,Site F Project Teams,0,0.0
+2025-03-05,Site F Living Room,0,0.0
+2025-03-05,Site F Contract Support,0,0.0
+2025-03-05,Site F Sales,480,8.0
+2025-03-05,Site F Maintenance Technical,480,8.0
+2025-03-05,Site F Conference Room,0,0.0
+2025-03-05,Site F Maintenance Management,0,0.0
+2025-03-05,Site F Technical Office,480,8.0
+2025-03-06,Site F Project Teams,99,1.65
+2025-03-06,Site F Living Room,0,0.0
+2025-03-06,Site F Contract Support,0,0.0
+2025-03-06,Site F Sales,480,8.0
+2025-03-06,Site F Maintenance Technical,480,8.0
+2025-03-06,Site F Conference Room,0,0.0
+2025-03-06,Site F Maintenance Management,0,0.0
+2025-03-06,Site F Technical Office,480,8.0
+2025-03-07,Site F Project Teams,159,2.65
+2025-03-07,Site F Living Room,0,0.0
+2025-03-07,Site F Contract Support,0,0.0
+2025-03-07,Site F Sales,480,8.0
+2025-03-07,Site F Maintenance Technical,480,8.0
+2025-03-07,Site F Conference Room,0,0.0
+2025-03-07,Site F Maintenance Management,0,0.0
+2025-03-07,Site F Technical Office,480,8.0
+2025-03-08,Site F Project Teams,0,0.0
+2025-03-08,Site F Living Room,0,0.0
+2025-03-08,Site F Contract Support,0,0.0
+2025-03-08,Site F Sales,0,0.0
+2025-03-08,Site F Maintenance Technical,0,0.0
+2025-03-08,Site F Conference Room,0,0.0
+2025-03-08,Site F Maintenance Management,0,0.0
+2025-03-08,Site F Technical Office,0,0.0
+2025-03-09,Site F Project Teams,0,0.0
+2025-03-09,Site F Living Room,0,0.0
+2025-03-09,Site F Contract Support,0,0.0
+2025-03-09,Site F Sales,0,0.0
+2025-03-09,Site F Maintenance Technical,0,0.0
+2025-03-09,Site F Conference Room,0,0.0
+2025-03-09,Site F Maintenance Management,0,0.0
+2025-03-09,Site F Technical Office,0,0.0
+2025-03-10,Site F Project Teams,162,2.7
+2025-03-10,Site F Living Room,0,0.0
+2025-03-10,Site F Contract Support,0,0.0
+2025-03-10,Site F Sales,480,8.0
+2025-03-10,Site F Maintenance Technical,480,8.0
+2025-03-10,Site F Conference Room,0,0.0
+2025-03-10,Site F Maintenance Management,449,7.483333333333333
+2025-03-10,Site F Technical Office,480,8.0
+2025-03-11,Site F Project Teams,0,0.0
+2025-03-11,Site F Living Room,0,0.0
+2025-03-11,Site F Contract Support,0,0.0
+2025-03-11,Site F Sales,480,8.0
+2025-03-11,Site F Maintenance Technical,385,6.416666666666667
+2025-03-11,Site F Conference Room,0,0.0
+2025-03-11,Site F Maintenance Management,0,0.0
+2025-03-11,Site F Technical Office,480,8.0
+2025-03-12,Site F Project Teams,0,0.0
+2025-03-12,Site F Living Room,0,0.0
+2025-03-12,Site F Contract Support,0,0.0
+2025-03-12,Site F Sales,480,8.0
+2025-03-12,Site F Maintenance Technical,310,5.166666666666667
+2025-03-12,Site F Conference Room,0,0.0
+2025-03-12,Site F Maintenance Management,0,0.0
+2025-03-12,Site F Technical Office,480,8.0
+2025-03-13,Site F Project Teams,0,0.0
+2025-03-13,Site F Living Room,0,0.0
+2025-03-13,Site F Contract Support,0,0.0
+2025-03-13,Site F Sales,480,8.0
+2025-03-13,Site F Maintenance Technical,430,7.166666666666667
+2025-03-13,Site F Conference Room,0,0.0
+2025-03-13,Site F Maintenance Management,0,0.0
+2025-03-13,Site F Technical Office,480,8.0
+2025-03-14,Site F Project Teams,0,0.0
+2025-03-14,Site F Living Room,0,0.0
+2025-03-14,Site F Contract Support,0,0.0
+2025-03-14,Site F Sales,480,8.0
+2025-03-14,Site F Maintenance Technical,415,6.916666666666667
+2025-03-14,Site F Conference Room,0,0.0
+2025-03-14,Site F Maintenance Management,381,6.35
+2025-03-14,Site F Technical Office,456,7.6
+2025-03-15,Site F Project Teams,0,0.0
+2025-03-15,Site F Living Room,0,0.0
+2025-03-15,Site F Contract Support,0,0.0
+2025-03-15,Site F Sales,0,0.0
+2025-03-15,Site F Maintenance Technical,0,0.0
+2025-03-15,Site F Conference Room,0,0.0
+2025-03-15,Site F Maintenance Management,0,0.0
+2025-03-15,Site F Technical Office,0,0.0
+2025-03-16,Site F Project Teams,0,0.0
+2025-03-16,Site F Living Room,0,0.0
+2025-03-16,Site F Contract Support,0,0.0
+2025-03-16,Site F Sales,0,0.0
+2025-03-16,Site F Maintenance Technical,0,0.0
+2025-03-16,Site F Conference Room,0,0.0
+2025-03-16,Site F Maintenance Management,0,0.0
+2025-03-16,Site F Technical Office,0,0.0
+2025-03-17,Site F Project Teams,354,5.9
+2025-03-17,Site F Living Room,0,0.0
+2025-03-17,Site F Contract Support,340,5.666666666666667
+2025-03-17,Site F Sales,480,8.0
+2025-03-17,Site F Maintenance Technical,480,8.0
+2025-03-17,Site F Conference Room,0,0.0
+2025-03-17,Site F Maintenance Management,0,0.0
+2025-03-17,Site F Technical Office,480,8.0
+2025-03-18,Site F Project Teams,0,0.0
+2025-03-18,Site F Living Room,0,0.0
+2025-03-18,Site F Contract Support,0,0.0
+2025-03-18,Site F Sales,480,8.0
+2025-03-18,Site F Maintenance Technical,445,7.416666666666667
+2025-03-18,Site F Conference Room,0,0.0
+2025-03-18,Site F Maintenance Management,0,0.0
+2025-03-18,Site F Technical Office,480,8.0
+2025-03-19,Site F Project Teams,0,0.0
+2025-03-19,Site F Living Room,0,0.0
+2025-03-19,Site F Contract Support,0,0.0
+2025-03-19,Site F Sales,480,8.0
+2025-03-19,Site F Maintenance Technical,480,8.0
+2025-03-19,Site F Conference Room,0,0.0
+2025-03-19,Site F Maintenance Management,0,0.0
+2025-03-19,Site F Technical Office,480,8.0
+2025-03-20,Site F Project Teams,0,0.0
+2025-03-20,Site F Living Room,0,0.0
+2025-03-20,Site F Contract Support,0,0.0
+2025-03-20,Site F Sales,480,8.0
+2025-03-20,Site F Maintenance Technical,480,8.0
+2025-03-20,Site F Conference Room,0,0.0
+2025-03-20,Site F Maintenance Management,0,0.0
+2025-03-20,Site F Technical Office,480,8.0
+2025-03-21,Site F Project Teams,0,0.0
+2025-03-21,Site F Living Room,0,0.0
+2025-03-21,Site F Contract Support,0,0.0
+2025-03-21,Site F Sales,480,8.0
+2025-03-21,Site F Maintenance Technical,325,5.416666666666667
+2025-03-21,Site F Conference Room,0,0.0
+2025-03-21,Site F Maintenance Management,0,0.0
+2025-03-21,Site F Technical Office,480,8.0
+2025-03-22,Site F Project Teams,0,0.0
+2025-03-22,Site F Living Room,0,0.0
+2025-03-22,Site F Contract Support,0,0.0
+2025-03-22,Site F Sales,0,0.0
+2025-03-22,Site F Maintenance Technical,0,0.0
+2025-03-22,Site F Conference Room,0,0.0
+2025-03-22,Site F Maintenance Management,0,0.0
+2025-03-22,Site F Technical Office,0,0.0
+2025-03-23,Site F Project Teams,0,0.0
+2025-03-23,Site F Living Room,0,0.0
+2025-03-23,Site F Contract Support,0,0.0
+2025-03-23,Site F Sales,0,0.0
+2025-03-23,Site F Maintenance Technical,0,0.0
+2025-03-23,Site F Conference Room,0,0.0
+2025-03-23,Site F Maintenance Management,0,0.0
+2025-03-23,Site F Technical Office,0,0.0
+2025-03-24,Site F Project Teams,54,0.9
+2025-03-24,Site F Living Room,0,0.0
+2025-03-24,Site F Contract Support,0,0.0
+2025-03-24,Site F Sales,441,7.35
+2025-03-24,Site F Maintenance Technical,445,7.416666666666667
+2025-03-24,Site F Conference Room,266,4.433333333333334
+2025-03-24,Site F Maintenance Management,480,8.0
+2025-03-24,Site F Technical Office,480,8.0
+2025-03-25,Site F Project Teams,69,1.15
+2025-03-25,Site F Living Room,0,0.0
+2025-03-25,Site F Contract Support,0,0.0
+2025-03-25,Site F Sales,480,8.0
+2025-03-25,Site F Maintenance Technical,460,7.666666666666667
+2025-03-25,Site F Conference Room,0,0.0
+2025-03-25,Site F Maintenance Management,441,7.35
+2025-03-25,Site F Technical Office,480,8.0
+2025-03-26,Site F Project Teams,0,0.0
+2025-03-26,Site F Living Room,0,0.0
+2025-03-26,Site F Contract Support,0,0.0
+2025-03-26,Site F Sales,480,8.0
+2025-03-26,Site F Maintenance Technical,445,7.416666666666667
+2025-03-26,Site F Conference Room,0,0.0
+2025-03-26,Site F Maintenance Management,0,0.0
+2025-03-26,Site F Technical Office,480,8.0
+2025-03-27,Site F Project Teams,0,0.0
+2025-03-27,Site F Living Room,0,0.0
+2025-03-27,Site F Contract Support,0,0.0
+2025-03-27,Site F Sales,480,8.0
+2025-03-27,Site F Maintenance Technical,480,8.0
+2025-03-27,Site F Conference Room,0,0.0
+2025-03-27,Site F Maintenance Management,0,0.0
+2025-03-27,Site F Technical Office,480,8.0
+2025-03-28,Site F Project Teams,84,1.4
+2025-03-28,Site F Living Room,0,0.0
+2025-03-28,Site F Contract Support,0,0.0
+2025-03-28,Site F Sales,480,8.0
+2025-03-28,Site F Maintenance Technical,250,4.166666666666667
+2025-03-28,Site F Conference Room,0,0.0
+2025-03-28,Site F Maintenance Management,0,0.0
+2025-03-28,Site F Technical Office,480,8.0
+2025-03-29,Site F Project Teams,0,0.0
+2025-03-29,Site F Living Room,0,0.0
+2025-03-29,Site F Contract Support,0,0.0
+2025-03-29,Site F Sales,0,0.0
+2025-03-29,Site F Maintenance Technical,0,0.0
+2025-03-29,Site F Conference Room,0,0.0
+2025-03-29,Site F Maintenance Management,0,0.0
+2025-03-29,Site F Technical Office,0,0.0
+2025-03-30,Site F Project Teams,0,0.0
+2025-03-30,Site F Living Room,0,0.0
+2025-03-30,Site F Contract Support,0,0.0
+2025-03-30,Site F Sales,0,0.0
+2025-03-30,Site F Maintenance Technical,0,0.0
+2025-03-30,Site F Conference Room,0,0.0
+2025-03-30,Site F Maintenance Management,0,0.0
+2025-03-30,Site F Technical Office,0,0.0
+2025-03-31,Site F Project Teams,26,0.43333333333333335
+2025-03-31,Site F Living Room,202,3.3666666666666667
+2025-03-31,Site F Contract Support,0,0.0
+2025-03-31,Site F Sales,480,8.0
+2025-03-31,Site F Maintenance Technical,475,7.916666666666667
+2025-03-31,Site F Conference Room,0,0.0
+2025-03-31,Site F Maintenance Management,0,0.0
+2025-03-31,Site F Technical Office,456,7.6
+2025-04-01,Site F Project Teams,0,0.0
+2025-04-01,Site F Living Room,0,0.0
+2025-04-01,Site F Contract Support,0,0.0
+2025-04-01,Site F Sales,480,8.0
+2025-04-01,Site F Maintenance Technical,205,3.4166666666666665
+2025-04-01,Site F Conference Room,0,0.0
+2025-04-01,Site F Maintenance Management,0,0.0
+2025-04-01,Site F Technical Office,246,4.1
+2025-04-02,Site F Project Teams,130,2.1666666666666665
+2025-04-02,Site F Living Room,0,0.0
+2025-04-02,Site F Contract Support,0,0.0
+2025-04-02,Site F Sales,480,8.0
+2025-04-02,Site F Maintenance Technical,310,5.166666666666667
+2025-04-02,Site F Conference Room,0,0.0
+2025-04-02,Site F Maintenance Management,0,0.0
+2025-04-02,Site F Technical Office,456,7.6
+2025-04-03,Site F Project Teams,12,0.2
+2025-04-03,Site F Living Room,0,0.0
+2025-04-03,Site F Contract Support,0,0.0
+2025-04-03,Site F Sales,480,8.0
+2025-04-03,Site F Maintenance Technical,355,5.916666666666667
+2025-04-03,Site F Conference Room,0,0.0
+2025-04-03,Site F Maintenance Management,0,0.0
+2025-04-03,Site F Technical Office,480,8.0
+2025-04-04,Site F Project Teams,0,0.0
+2025-04-04,Site F Living Room,0,0.0
+2025-04-04,Site F Contract Support,0,0.0
+2025-04-04,Site F Sales,480,8.0
+2025-04-04,Site F Maintenance Technical,480,8.0
+2025-04-04,Site F Conference Room,0,0.0
+2025-04-04,Site F Maintenance Management,0,0.0
+2025-04-04,Site F Technical Office,441,7.35
+2025-04-05,Site F Project Teams,0,0.0
+2025-04-05,Site F Living Room,0,0.0
+2025-04-05,Site F Contract Support,0,0.0
+2025-04-05,Site F Sales,0,0.0
+2025-04-05,Site F Maintenance Technical,0,0.0
+2025-04-05,Site F Conference Room,0,0.0
+2025-04-05,Site F Maintenance Management,0,0.0
+2025-04-05,Site F Technical Office,0,0.0
+2025-04-06,Site F Project Teams,0,0.0
+2025-04-06,Site F Living Room,0,0.0
+2025-04-06,Site F Contract Support,0,0.0
+2025-04-06,Site F Sales,0,0.0
+2025-04-06,Site F Maintenance Technical,0,0.0
+2025-04-06,Site F Conference Room,0,0.0
+2025-04-06,Site F Maintenance Management,0,0.0
+2025-04-06,Site F Technical Office,0,0.0
+2025-04-07,Site F Project Teams,0,0.0
+2025-04-07,Site F Living Room,0,0.0
+2025-04-07,Site F Contract Support,0,0.0
+2025-04-07,Site F Sales,480,8.0
+2025-04-07,Site F Maintenance Technical,480,8.0
+2025-04-07,Site F Conference Room,324,5.4
+2025-04-07,Site F Maintenance Management,0,0.0
+2025-04-07,Site F Technical Office,480,8.0
+2025-04-08,Site F Project Teams,0,0.0
+2025-04-08,Site F Living Room,0,0.0
+2025-04-08,Site F Contract Support,0,0.0
+2025-04-08,Site F Sales,480,8.0
+2025-04-08,Site F Maintenance Technical,480,8.0
+2025-04-08,Site F Conference Room,84,1.4
+2025-04-08,Site F Maintenance Management,0,0.0
+2025-04-08,Site F Technical Office,480,8.0
+2025-04-09,Site F Project Teams,0,0.0
+2025-04-09,Site F Living Room,0,0.0
+2025-04-09,Site F Contract Support,0,0.0
+2025-04-09,Site F Sales,471,7.85
+2025-04-09,Site F Maintenance Technical,235,3.9166666666666665
+2025-04-09,Site F Conference Room,0,0.0
+2025-04-09,Site F Maintenance Management,0,0.0
+2025-04-09,Site F Technical Office,426,7.1
+2025-04-10,Site F Project Teams,70,1.1666666666666667
+2025-04-10,Site F Living Room,0,0.0
+2025-04-10,Site F Contract Support,0,0.0
+2025-04-10,Site F Sales,441,7.35
+2025-04-10,Site F Maintenance Technical,480,8.0
+2025-04-10,Site F Conference Room,0,0.0
+2025-04-10,Site F Maintenance Management,179,2.9833333333333334
+2025-04-10,Site F Technical Office,471,7.85
+2025-04-11,Site F Project Teams,0,0.0
+2025-04-11,Site F Living Room,0,0.0
+2025-04-11,Site F Contract Support,0,0.0
+2025-04-11,Site F Sales,480,8.0
+2025-04-11,Site F Maintenance Technical,280,4.666666666666667
+2025-04-11,Site F Conference Room,0,0.0
+2025-04-11,Site F Maintenance Management,0,0.0
+2025-04-11,Site F Technical Office,351,5.85
+2025-04-12,Site F Project Teams,0,0.0
+2025-04-12,Site F Living Room,0,0.0
+2025-04-12,Site F Contract Support,0,0.0
+2025-04-12,Site F Sales,0,0.0
+2025-04-12,Site F Maintenance Technical,0,0.0
+2025-04-12,Site F Conference Room,0,0.0
+2025-04-12,Site F Maintenance Management,0,0.0
+2025-04-12,Site F Technical Office,0,0.0
+2025-04-13,Site F Project Teams,0,0.0
+2025-04-13,Site F Living Room,0,0.0
+2025-04-13,Site F Contract Support,0,0.0
+2025-04-13,Site F Sales,0,0.0
+2025-04-13,Site F Maintenance Technical,0,0.0
+2025-04-13,Site F Conference Room,0,0.0
+2025-04-13,Site F Maintenance Management,0,0.0
+2025-04-13,Site F Technical Office,0,0.0
+2025-04-14,Site F Project Teams,129,2.15
+2025-04-14,Site F Living Room,0,0.0
+2025-04-14,Site F Contract Support,0,0.0
+2025-04-14,Site F Sales,480,8.0
+2025-04-14,Site F Maintenance Technical,115,1.9166666666666667
+2025-04-14,Site F Conference Room,0,0.0
+2025-04-14,Site F Maintenance Management,0,0.0
+2025-04-14,Site F Technical Office,480,8.0
+2025-04-15,Site F Project Teams,277,4.616666666666666
+2025-04-15,Site F Living Room,0,0.0
+2025-04-15,Site F Contract Support,0,0.0
+2025-04-15,Site F Sales,480,8.0
+2025-04-15,Site F Maintenance Technical,415,6.916666666666667
+2025-04-15,Site F Conference Room,0,0.0
+2025-04-15,Site F Maintenance Management,314,5.233333333333333
+2025-04-15,Site F Technical Office,276,4.6
+2025-04-16,Site F Project Teams,0,0.0
+2025-04-16,Site F Living Room,0,0.0
+2025-04-16,Site F Contract Support,0,0.0
+2025-04-16,Site F Sales,480,8.0
+2025-04-16,Site F Maintenance Technical,445,7.416666666666667
+2025-04-16,Site F Conference Room,0,0.0
+2025-04-16,Site F Maintenance Management,0,0.0
+2025-04-16,Site F Technical Office,480,8.0
+2025-04-17,Site F Project Teams,0,0.0
+2025-04-17,Site F Living Room,0,0.0
+2025-04-17,Site F Contract Support,0,0.0
+2025-04-17,Site F Sales,480,8.0
+2025-04-17,Site F Maintenance Technical,480,8.0
+2025-04-17,Site F Conference Room,0,0.0
+2025-04-17,Site F Maintenance Management,0,0.0
+2025-04-17,Site F Technical Office,480,8.0
+2025-04-18,Site F Project Teams,0,0.0
+2025-04-18,Site F Living Room,0,0.0
+2025-04-18,Site F Contract Support,0,0.0
+2025-04-18,Site F Sales,0,0.0
+2025-04-18,Site F Maintenance Technical,0,0.0
+2025-04-18,Site F Conference Room,0,0.0
+2025-04-18,Site F Maintenance Management,0,0.0
+2025-04-18,Site F Technical Office,0,0.0
+2025-04-19,Site F Project Teams,0,0.0
+2025-04-19,Site F Living Room,0,0.0
+2025-04-19,Site F Contract Support,0,0.0
+2025-04-19,Site F Sales,0,0.0
+2025-04-19,Site F Maintenance Technical,0,0.0
+2025-04-19,Site F Conference Room,0,0.0
+2025-04-19,Site F Maintenance Management,0,0.0
+2025-04-19,Site F Technical Office,0,0.0
+2025-04-20,Site F Project Teams,0,0.0
+2025-04-20,Site F Living Room,0,0.0
+2025-04-20,Site F Contract Support,0,0.0
+2025-04-20,Site F Sales,0,0.0
+2025-04-20,Site F Maintenance Technical,0,0.0
+2025-04-20,Site F Conference Room,0,0.0
+2025-04-20,Site F Maintenance Management,0,0.0
+2025-04-20,Site F Technical Office,0,0.0
+2025-04-21,Site F Project Teams,0,0.0
+2025-04-21,Site F Living Room,0,0.0
+2025-04-21,Site F Contract Support,0,0.0
+2025-04-21,Site F Sales,0,0.0
+2025-04-21,Site F Maintenance Technical,0,0.0
+2025-04-21,Site F Conference Room,0,0.0
+2025-04-21,Site F Maintenance Management,0,0.0
+2025-04-21,Site F Technical Office,0,0.0
+2025-04-22,Site F Project Teams,69,1.15
+2025-04-22,Site F Living Room,0,0.0
+2025-04-22,Site F Contract Support,156,2.6
+2025-04-22,Site F Sales,366,6.1
+2025-04-22,Site F Maintenance Technical,400,6.666666666666667
+2025-04-22,Site F Conference Room,0,0.0
+2025-04-22,Site F Maintenance Management,0,0.0
+2025-04-22,Site F Technical Office,471,7.85
+2025-04-23,Site F Project Teams,0,0.0
+2025-04-23,Site F Living Room,0,0.0
+2025-04-23,Site F Contract Support,291,4.85
+2025-04-23,Site F Sales,480,8.0
+2025-04-23,Site F Maintenance Technical,475,7.916666666666667
+2025-04-23,Site F Conference Room,0,0.0
+2025-04-23,Site F Maintenance Management,456,7.6
+2025-04-23,Site F Technical Office,480,8.0
+2025-04-24,Site F Project Teams,174,2.9
+2025-04-24,Site F Living Room,0,0.0
+2025-04-24,Site F Contract Support,0,0.0
+2025-04-24,Site F Sales,480,8.0
+2025-04-24,Site F Maintenance Technical,480,8.0
+2025-04-24,Site F Conference Room,0,0.0
+2025-04-24,Site F Maintenance Management,164,2.7333333333333334
+2025-04-24,Site F Technical Office,471,7.85
+2025-04-25,Site F Project Teams,0,0.0
+2025-04-25,Site F Living Room,0,0.0
+2025-04-25,Site F Contract Support,0,0.0
+2025-04-25,Site F Sales,480,8.0
+2025-04-25,Site F Maintenance Technical,445,7.416666666666667
+2025-04-25,Site F Conference Room,0,0.0
+2025-04-25,Site F Maintenance Management,322,5.366666666666666
+2025-04-25,Site F Technical Office,276,4.6
+2025-04-26,Site F Project Teams,0,0.0
+2025-04-26,Site F Living Room,0,0.0
+2025-04-26,Site F Contract Support,0,0.0
+2025-04-26,Site F Sales,0,0.0
+2025-04-26,Site F Maintenance Technical,0,0.0
+2025-04-26,Site F Conference Room,0,0.0
+2025-04-26,Site F Maintenance Management,0,0.0
+2025-04-26,Site F Technical Office,0,0.0
+2025-04-27,Site F Project Teams,0,0.0
+2025-04-27,Site F Living Room,0,0.0
+2025-04-27,Site F Contract Support,0,0.0
+2025-04-27,Site F Sales,0,0.0
+2025-04-27,Site F Maintenance Technical,0,0.0
+2025-04-27,Site F Conference Room,0,0.0
+2025-04-27,Site F Maintenance Management,0,0.0
+2025-04-27,Site F Technical Office,0,0.0
+2025-04-28,Site F Project Teams,0,0.0
+2025-04-28,Site F Living Room,82,1.3666666666666667
+2025-04-28,Site F Contract Support,0,0.0
+2025-04-28,Site F Sales,480,8.0
+2025-04-28,Site F Maintenance Technical,460,7.666666666666667
+2025-04-28,Site F Conference Room,0,0.0
+2025-04-28,Site F Maintenance Management,0,0.0
+2025-04-28,Site F Technical Office,480,8.0
+2025-04-29,Site F Project Teams,0,0.0
+2025-04-29,Site F Living Room,0,0.0
+2025-04-29,Site F Contract Support,246,4.1
+2025-04-29,Site F Sales,480,8.0
+2025-04-29,Site F Maintenance Technical,480,8.0
+2025-04-29,Site F Conference Room,24,0.4
+2025-04-29,Site F Maintenance Management,0,0.0
+2025-04-29,Site F Technical Office,471,7.85
+2025-04-30,Site F Project Teams,0,0.0
+2025-04-30,Site F Living Room,0,0.0
+2025-04-30,Site F Contract Support,0,0.0
+2025-04-30,Site F Sales,480,8.0
+2025-04-30,Site F Maintenance Technical,445,7.416666666666667
+2025-04-30,Site F Conference Room,0,0.0
+2025-04-30,Site F Maintenance Management,0,0.0
+2025-04-30,Site F Technical Office,480,8.0

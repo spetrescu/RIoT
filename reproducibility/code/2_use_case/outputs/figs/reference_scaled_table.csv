@@ -1,0 +1,4 @@
+Type,#rooms (reference site),#rooms (current instrumented),Always-on (scaled kWh),Proxy (scaled kWh),Savings (scaled kWh)
+Meeting,5,1,384.0,76.80000000000001,307.2
+Offices,19,1,1100.0,463.1578947368421,636.8421052631579
+Total,24,8,7606.666666666666,3066.6666666666665,4540.0
