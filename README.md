@@ -1,4 +1,5 @@
-# RIoT
+
+# <img width="200" alt="riot_logo" src="https://github.com/user-attachments/assets/15f6355c-4f61-45cf-9e7f-b453613acda2" /><br>
 `RIoT` is a real-world IoT dataset for smart building systems, anonymized from proprietary BMS deployments in collaboration with [`Innon Energy LTD`](https://www.innon.com).
 
 ## Citation
