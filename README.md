@@ -1,6 +1,11 @@
 
 # <img width="200" alt="riot_logo" src="https://github.com/user-attachments/assets/15f6355c-4f61-45cf-9e7f-b453613acda2" /><br>
-`RIoT` is a real-world IoT dataset for smart building systems, anonymized from proprietary BMS deployments in collaboration with [`Innon Energy LTD`](https://www.innon.com).
+`RIoT` is a real-world IoT dataset for evaluating smart building systems in the wild, anonymized from proprietary BMS deployments in collaboration with [`Innon Energy LTD`](https://www.innon.com).
+
+## Role
+Below, we showcase a schematic of the data collection process for `RIoT` (steps 1-2) and hint at its aim to facilitate evaluating building systems that posses 'smart modules' (steps 3-8), i.e., solutions that try to move away from passive monitoring toward providing insight about the building or ways to actuate (influence) its state.
+
+<img width="99%" alt="datasetx_pipeline" src="https://github.com/user-attachments/assets/f4e44757-c034-4e86-8f54-4a6868b36597" />
 
 ## Citation
 To cite this work, feel free to use the following BibTeX entry:
