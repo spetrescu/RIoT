@@ -9,7 +9,7 @@ import numpy as np
 import pandas as pd
 
 
-DATA_DIR = "../../../DatasetX/sites/site_F"
+DATA_DIR = "../../../RIoT/sites/site_F"
 OUT_DIR  = "./outputs"
 os.makedirs(OUT_DIR, exist_ok=True)
 

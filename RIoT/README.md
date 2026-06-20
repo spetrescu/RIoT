@@ -1,4 +1,4 @@
-# DatasetX specifics
+# RIoT specifics
 As mentioned in the paper, we use Haystack tagging to describe metadata for the measurements. Each data file (per day, per site) contains telemetry for all sensor points intstalled (CO2, TVOC, temperature, etc.). The point tagging enables interpreting the data in context — the actual hierarchy of devices, but also semantically w.r.t. what the measurement represents and how it is used. Particularly, each of the files contains the following global grid structure:
 - `meta`: Grid-level metadata (version, display name, history start/end, timezone, history limit)
 - `cols`: Definition of each returned column (e.g., 'ts' for timestamp and 'v0' for measurement value)
